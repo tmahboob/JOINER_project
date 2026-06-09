@@ -1,3 +1,5 @@
+//* ---- Contribution: Dr. Tahira Mahboob, School of Computing, University of Glasgow, UK ------*//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
