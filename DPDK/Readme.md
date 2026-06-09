@@ -1,5 +1,6 @@
 # GOOSE Packet Forwarding Switch using DPDK + Encryption
-
+Author: Dr. Tahira Mahboob, tahira.mahboob@yahoo.com
+School of Computing, University of Glasgow, UK
 ## Overview
 
 This project implements a **high-performance packet processing switch** using **DPDK (Data Plane Development Kit)**.  
